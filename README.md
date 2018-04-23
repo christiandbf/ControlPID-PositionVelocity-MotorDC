@@ -17,3 +17,9 @@
 * MakerHub Toolbox 2.0.0.35
 * Digilent LINX 3.0.1.192  
 * LabVIEW 2016 Control Design and Simulation Module
+
+![Adquisition VI](https://github.com/christiandbf/ControlPID-PositionVelocity-MotorDC/blob/master/img/adquisition.png)
+![Voltage - Position](https://github.com/christiandbf/ControlPID-PositionVelocity-MotorDC/blob/master/img/position-voltage.png)
+![Voltage - RPM](https://github.com/christiandbf/ControlPID-PositionVelocity-MotorDC/blob/master/img/rpm-voltage.png)
+![Position PID](https://github.com/christiandbf/ControlPID-PositionVelocity-MotorDC/blob/master/img/test-position-pid-2.png)
+![Velocity PID](https://github.com/christiandbf/ControlPID-PositionVelocity-MotorDC/blob/master/img/test-velocity-pid-4.png)
